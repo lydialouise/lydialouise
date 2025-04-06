@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👩‍💻 Welcome to my GitHub
+
+👋 Hello! I’m Lydia.
+
+I turn complex technical information into clear, concise and engaging content. ✍️
+
+- 🙋‍♀️ [LinkedIn](https://www.linkedin.com/in/lydiahandforth/)
+- 📂 [Portfolio](https://lydiahandforthportfolio.notion.site/Welcome-to-my-portfolio-32f2a0a8f7ba4de7808d97b23608a1e2)
 
 <!--
 **lydialouise/lydialouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
