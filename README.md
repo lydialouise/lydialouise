@@ -1,6 +1,6 @@
 ## 👩‍💻 Welcome to my GitHub
 
-👋 Hello! I’m Lydia.
+👋 Hello! I’m Lydia. 
 
 I turn complex technical information into clear, concise and engaging content. ✍️
 
